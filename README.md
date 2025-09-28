@@ -1,10 +1,18 @@
-# ✈️ Flight-Fare-Predictor
-
-This project aims to **predict flight ticket prices** using machine learning techniques. By analyzing historical flight data, we can estimate fares based on various features such as airline, departure time, source, destination, and more.
-
+# ✈️ Flight Price Prediction
 
 ---
 
+
+## 📝 Problem Statement
+
+Flight ticket prices are notoriously unpredictable. Today’s fare might be different from tomorrow’s for the same flight. Travelers often experience this inconsistency, making it difficult to plan budgets.
+
+This project aims to use **machine learning** to predict flight ticket prices. Accurate predictions can help:
+
+* ✈️ **Travelers**: Plan their trips and book tickets at optimal times.
+* 🏢 **Airlines**: Determine dynamic pricing strategies and maintain competitive fares.
+
+By analyzing historical flight data, the model can estimate expected ticket prices based on key features such as airline, route, departure time, and more.
 
 ## 📊 Dataset
 
